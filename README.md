@@ -18,3 +18,6 @@ It plays the video in different modes like previous(FAST) or previous(SLOW) so t
 ## threading
 ## imutils
 ## functools
+
+# Author:
+Mayur kumar verma
